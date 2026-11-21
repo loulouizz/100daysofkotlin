@@ -15,7 +15,7 @@ review this part with more attention and start a new practice project tomorrow
 What I learned today was:
 
 - Kotlin needs to be "compiled" to bytecode so it can run
-- Collections' syntax
+- Collections syntax
 
 reference:
 
